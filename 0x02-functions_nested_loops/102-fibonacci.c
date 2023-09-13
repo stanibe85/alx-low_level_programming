@@ -1,4 +1,4 @@
-#include <stdio.hu>
+#include <stdio.h>
 
 /**
  * main - Prints the first 52 fibonacci numbers
