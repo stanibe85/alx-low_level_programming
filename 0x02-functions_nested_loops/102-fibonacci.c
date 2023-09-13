@@ -1,7 +1,7 @@
 #include <stdio.hu>
 
 /**
- * main Prints the first 52 fibonacci numbers
+ * main - Prints the first 52 fibonacci numbers
  * Return: Nothing!
  */
 
